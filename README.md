@@ -1,2 +1,2 @@
---> DEVOLOPING <--
+--> DEVOLOPING <--\n
 student @ neu
