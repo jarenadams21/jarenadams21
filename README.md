@@ -5,4 +5,4 @@ student @ neu
 Active Projects:
   1. art-walk
   2. JARA
-  3. LERN
+  3. LERN (priv)
