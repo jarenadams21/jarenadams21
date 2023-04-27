@@ -4,5 +4,5 @@ student @ neu
 <br/>
 Active Projects:
   1. art-walk
-  2. JARA
+  2. spell-walker
   3. LERN (priv)
