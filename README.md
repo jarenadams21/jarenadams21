@@ -3,4 +3,4 @@ student @ neu
 <br/>
 <br/>
 Active Projects:
-  1. jarpages
+  1. life
